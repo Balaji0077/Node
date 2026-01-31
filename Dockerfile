@@ -15,7 +15,7 @@ ENV NODE_VERSION=20.20.0
 # renovate: datasource=npm depName=tar
 ARG TAR_VERSION=7.5.4
 # renovate: datasource=npm depName=diff
-ARG DIFF_VERSION=7.0.0
+ARG DIFF_VERSION=8.0.3
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
