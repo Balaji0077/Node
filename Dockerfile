@@ -13,7 +13,7 @@ ENV PATH="/usr/local/bin:$PATH"
 ENV NODE_VERSION=20.20.0
 
 # renovate: datasource=npm depName=tar
-ARG TAR_VERSION=7.5.4
+ARG TAR_VERSION=7.5.7
 # renovate: datasource=npm depName=diff
 ARG DIFF_VERSION=7.0.0
 
